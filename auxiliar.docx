@@ -1,0 +1,14 @@
+Recentemente, optei por utilizar a base de dados da "Pesquisa de Orçamentos Familiares (POF)" do
+Instituto Brasileiro de Geografia e Estatística (IBGE) como uma prática para a manipulação de dados usando Python.
+O caderno escolhido foi o de 'MORADOR', o qual é composto por 178.431 observações e 56 variáveis.
+
+Durante a tentativa de criar uma nova variável chamada 'var_teste' para este DataFrame, utilizando as estruturas 'for' e 'if'
+deparei-me com uma demora significativa no processamento. 
+Diante disso, decidi explorar outra alternativa para a criação da variável e estudei a utilização do 'apply'.
+
+Para tornar o processo mais exigente em termos computacionais, desenvolvi um filtro 'fictício e complexo'. Os resultados em
+termos de melhoria de desempenho foram notáveis! Ao utilizar 'apply', consegui uma eficiência muito maior reduzindo
+drasticamente os tempos de execução de 30 segundos para apenas 2 segundos.
+
+Essa abordagem alternativa não apenas melhorou o desempenho do código, mas também me mostrou a importância de explorar
+diferentes métodos e funções disponíveis em Python para lidar com determinado conjunto de dados!
