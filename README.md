@@ -16,6 +16,7 @@ Para acessar o caderno 'MORADOR.txt', siga estes passos:
 - Dados_20230713.zip
 - Extraia dados do zip 'Dados_20230713.zip'
 
+
 ## 	:email: Contato
 Para feedbacks, sugestão de melhorias ou relato de problemas, sinta-se à vontade para entrar em contato comigo através do meu perfil no Linkedin:
 
