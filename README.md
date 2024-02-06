@@ -7,12 +7,12 @@ Este projeto visa analisar e comparar o tempo de execução da criação de uma 
 A análise dessas alternativas pode fornecer insights sobre como otimizar a eficiência do código em determinadas situações.
 
 ## 	:computer: Acesso aos dados
-A tabela 'MORADOR.txt' encontra-se através dos seguintes passos:
+Para acessar o caderno 'MORADOR.txt', siga estes passos:
 - Acessar link: https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?=&t=downloads
 - Pesquisa_de_Orcamentos_Familiares_2017_2018
 - Microdados
 - Dados_20230713.zip
-- Extrair dados do zip 'Dados_20230713.zip'
+- Extraia dados do zip 'Dados_20230713.zip'
 
 ## 	:email: Contato
 Para feedbacks, sugestão de melhorias ou relato de problemas, sinta-se à vontade para entrar em contato comigo através do meu perfil no Linkedin:
